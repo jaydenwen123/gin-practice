@@ -1,0 +1,110 @@
+[
+  {
+    "title": "lesson01_内容介绍",
+    "link": "/video/BV1gJ411p7xC?p=1"
+  },
+  {
+    "title": "lesson02_web本质",
+    "link": "/video/BV1gJ411p7xC?p=2"
+  },
+  {
+    "title": "lesson03_gin框架初识",
+    "link": "/video/BV1gJ411p7xC?p=3"
+  },
+  {
+    "title": "lesson04_template初识",
+    "link": "/video/BV1gJ411p7xC?p=4"
+  },
+  {
+    "title": "lesson05_go模板语法详解",
+    "link": "/video/BV1gJ411p7xC?p=5"
+  },
+  {
+    "title": "lesson06_模板嵌套",
+    "link": "/video/BV1gJ411p7xC?p=6"
+  },
+  {
+    "title": "lesson07_模板继承",
+    "link": "/video/BV1gJ411p7xC?p=7"
+  },
+  {
+    "title": "lesson08_模板补充",
+    "link": "/video/BV1gJ411p7xC?p=8"
+  },
+  {
+    "title": "lesson09_gin框架模板渲染",
+    "link": "/video/BV1gJ411p7xC?p=9"
+  },
+  {
+    "title": "lesson10_gin框架返回json",
+    "link": "/video/BV1gJ411p7xC?p=10"
+  },
+  {
+    "title": "lesson11_gin获取querystring参数",
+    "link": "/video/BV1gJ411p7xC?p=11"
+  },
+  {
+    "title": "lesson12_gin获取form参数",
+    "link": "/video/BV1gJ411p7xC?p=12"
+  },
+  {
+    "title": "lesson13_gin获取URI路径参数",
+    "link": "/video/BV1gJ411p7xC?p=13"
+  },
+  {
+    "title": "lesson14_gin参数绑定",
+    "link": "/video/BV1gJ411p7xC?p=14"
+  },
+  {
+    "title": "lesson15_gin文件上传",
+    "link": "/video/BV1gJ411p7xC?p=15"
+  },
+  {
+    "title": "lesson16_gin请求重定向",
+    "link": "/video/BV1gJ411p7xC?p=16"
+  },
+  {
+    "title": "lesson17_gin路由和路由组",
+    "link": "/video/BV1gJ411p7xC?p=17"
+  },
+  {
+    "title": "lesson18中间件",
+    "link": "/video/BV1gJ411p7xC?p=18"
+  },
+  {
+    "title": "lesson19_GORM连接MySQL基本示例",
+    "link": "/video/BV1gJ411p7xC?p=19"
+  },
+  {
+    "title": "lesson20GORM模型定义那些事儿",
+    "link": "/video/BV1gJ411p7xC?p=20"
+  },
+  {
+    "title": "lesson21_GORM创建记录及字段默认值相关",
+    "link": "/video/BV1gJ411p7xC?p=21"
+  },
+  {
+    "title": "lesson22_GORM查询操作",
+    "link": "/video/BV1gJ411p7xC?p=22"
+  },
+  {
+    "title": "lesson23_GORM更新操作",
+    "link": "/video/BV1gJ411p7xC?p=23"
+  },
+  {
+    "title": "lesson24_GORM删除操作",
+    "link": "/video/BV1gJ411p7xC?p=24"
+  },
+  {
+    "title": "lesson25_小清单项目启动",
+    "link": "/video/BV1gJ411p7xC?p=25"
+  },
+  {
+    "title": "lesson26_小清单功能实现",
+    "link": "/video/BV1gJ411p7xC?p=26"
+  },
+  {
+    "title": "lesson27_企业级项目结构拆分",
+    "link": "/video/BV1gJ411p7xC?p=27"
+  }
+]
